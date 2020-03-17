@@ -4,7 +4,7 @@
 
 This is a very simple application that can be used to write, save, and delete notes. 
 
-Note: this is version 2. Version 1 failed to deploy due to issues with untracked files and structure of folders. You can find the repository for version 1 [here](https://github.com/enma1009/Note_Taker)
+Note: this is version 2. Version 1 failed to deploy due to issues with untracked files and structure of folders. You can find the repository for version 1 [here](https://github.com/enma1009/Note_Taker).
 
 ## Purpose
 
