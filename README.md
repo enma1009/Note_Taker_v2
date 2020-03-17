@@ -20,4 +20,4 @@ The application uses the "Express" dependency to set routes, and get and post da
 
 ## Link to the deployed application
 
-You can find the deployed application [here](https://frozen-woodland-27318.herokuapp.com/notes)
+You can find the deployed application [here](https://frozen-woodland-27318.herokuapp.com/)
