@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Things to do",
+    "text": "Finish homework, cook dinner, floss.",
+    "id": 2
+  },
+  {
+    "title": "amigos mios",
+    "text": "estan todos muy lejos",
+    "id": 4
+  },
+  {
+    "title": "tengo hambre",
+    "text": "alza la pata y come calambre",
+    "id": 5
+  },
+  {
+    "title": "Monuments",
+    "text": "Monuments to where I have been\nAnd melodies to where I am going",
+    "id": 4
+  },
+  {
+    "title": "Picasso",
+    "text": "Was born in Malaga, Spain, but his biggest museum is in Barcelona",
+    "id": 5
+  }
+]
